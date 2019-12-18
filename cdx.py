@@ -7,3 +7,5 @@
 def test():
     print('Hello Wrold')
     print('new test.py file')
+
+def dev():pass
